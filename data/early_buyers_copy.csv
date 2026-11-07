@@ -1,0 +1,7 @@
+window,group,wallets,copied_signals_check_period,copy_roi_pct,t,copy_roi_resolved_only_pct,copy_roi_without_top3_events_pct,check_jumps_right_side,check_jumps_wrong_side,right_side_share_pct
+before_24h_to_2min,right_before_3plus_events,417,691,5.6,1.3,8.6,0.7,356,289,55.2
+before_24h_to_2min,control_same_activity,300,602,-0.1,-0.0,-1.6,-3.5,211,233,47.5
+before_2h_to_2min,right_before_3plus_events,128,631,-0.5,-0.1,2.4,-5.3,93,70,57.1
+before_2h_to_2min,control_same_activity,300,728,8.2,1.6,17.3,2.9,217,198,52.3
+first_minutes,right_before_3plus_events,120,468,3.6,0.8,7.2,-1.3,143,42,77.3
+first_minutes,control_same_activity,232,769,4.5,1.1,10.2,0.7,171,219,43.8

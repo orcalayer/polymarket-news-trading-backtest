@@ -1,0 +1,35 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='440' viewBox='0 0 760 440' role='img' aria-labelledby='t d'>
+<title id='t'>The same backtest, with and without a look into the future</title>
+<desc id='d'>Grouped bar chart. Picked by the later price: +2.63 dollars per 10 at the later level, +3.22 at resolution. Picked only by what was known: +0.18 and -0.34.</desc>
+<rect width='100%' height='100%' fill='#fcfcfb'/>
+<text x='24.0' y='34.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='18' fill='#0b0b0b' text-anchor='start' font-weight='600' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>The same backtest, with and without a look into the future</text>
+<text x='24.0' y='56.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='13' fill='#52514e' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Buy $10 in the direction of a price move 5 seconds after it, Polymarket non-sports markets, Sept-Oct 2026</text>
+<line x1='70' y1='370.0' x2='730' y2='370.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='374.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-1</text>
+<line x1='70' y1='318.0' x2='730' y2='318.0' stroke='#52514e' stroke-width='1.5'/>
+<text x='62.0' y='322.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0</text>
+<line x1='70' y1='266.0' x2='730' y2='266.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='270.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+1</text>
+<line x1='70' y1='214.0' x2='730' y2='214.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='218.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+2</text>
+<line x1='70' y1='162.0' x2='730' y2='162.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='166.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+3</text>
+<line x1='70' y1='110.0' x2='730' y2='110.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='114.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+4</text>
+<text x='235.0' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Value at the price 2-15 min later</text>
+<rect x='200.0' y='181.1' width='34.0' height='136.9' rx='3' fill='#eb6834'/>
+<text x='217.0' y='175.1' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+2.63</text>
+<rect x='236.0' y='308.8' width='34.0' height='9.2' rx='3' fill='#2a78d6'/>
+<text x='253.0' y='302.8' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+0.18</text>
+<text x='565.0' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Value at resolution</text>
+<rect x='530.0' y='150.5' width='34.0' height='167.5' rx='3' fill='#eb6834'/>
+<text x='547.0' y='144.5' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+3.22</text>
+<rect x='566.0' y='318.0' width='34.0' height='17.8' rx='3' fill='#2a78d6'/>
+<text x='583.0' y='350.8' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-0.34</text>
+<text x='400.0' y='418.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>How the position is valued</text>
+<text transform='translate(18 240.0) rotate(-90)' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle'>$ per $10</text>
+<rect x='70.0' y='73' width='10' height='10' rx='2' fill='#eb6834'/>
+<text x='85.0' y='82.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Moves picked by where the price went later</text>
+<rect x='409.0' y='73' width='10' height='10' rx='2' fill='#2a78d6'/>
+<text x='424.0' y='82.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Moves picked only by what was known</text>
+</svg>

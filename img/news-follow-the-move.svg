@@ -1,0 +1,45 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='440' viewBox='0 0 760 440' role='img' aria-labelledby='t d'>
+<title id='t'>Buying in the direction of a news move loses</title>
+<desc id='d'>Grouped bar chart of returns for following a news move. May to mid-August: -13.0% after 1 hour, -15.0% after 4 hours, -22.6% after 24 hours, -17.8% at resolution. Mid-August to October: -16.3% after 1 hour, -21.3% after 4 hours, -19.5% after 24 hours, -12.0% at resolution.</desc>
+<rect width='100%' height='100%' fill='#fcfcfb'/>
+<text x='24.0' y='34.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='18' fill='#0b0b0b' text-anchor='start' font-weight='600' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Buying in the direction of a news move loses</text>
+<text x='24.0' y='56.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='13' fill='#52514e' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Real-time detector: 10 cents or more within minutes; buy the rising side a minute later, return per $1 after slippage and fees</text>
+<line x1='70' y1='370.0' x2='730' y2='370.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='374.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-25</text>
+<line x1='70' y1='318.0' x2='730' y2='318.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='322.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-20</text>
+<line x1='70' y1='266.0' x2='730' y2='266.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='270.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-15</text>
+<line x1='70' y1='214.0' x2='730' y2='214.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='218.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-10</text>
+<line x1='70' y1='162.0' x2='730' y2='162.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='62.0' y='166.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-5</text>
+<line x1='70' y1='110.0' x2='730' y2='110.0' stroke='#52514e' stroke-width='1.5'/>
+<text x='62.0' y='114.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0</text>
+<text x='152.5' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>after 1 hour</text>
+<rect x='117.5' y='110.0' width='34.0' height='134.8' rx='3' fill='#2a78d6'/>
+<text x='134.5' y='259.8' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-13.0</text>
+<rect x='153.5' y='110.0' width='34.0' height='169.7' rx='3' fill='#eb6834'/>
+<text x='170.5' y='294.7' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-16.3</text>
+<text x='317.5' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>after 4 hours</text>
+<rect x='282.5' y='110.0' width='34.0' height='155.9' rx='3' fill='#2a78d6'/>
+<text x='299.5' y='280.9' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-15.0</text>
+<rect x='318.5' y='110.0' width='34.0' height='221.4' rx='3' fill='#eb6834'/>
+<text x='335.5' y='346.4' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-21.3</text>
+<text x='482.5' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>after 24 hours</text>
+<rect x='447.5' y='110.0' width='34.0' height='235.2' rx='3' fill='#2a78d6'/>
+<text x='464.5' y='360.2' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-22.6</text>
+<rect x='483.5' y='110.0' width='34.0' height='203.1' rx='3' fill='#eb6834'/>
+<text x='500.5' y='328.1' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-19.5</text>
+<text x='647.5' y='390.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>at resolution</text>
+<rect x='612.5' y='110.0' width='34.0' height='184.8' rx='3' fill='#2a78d6'/>
+<text x='629.5' y='309.8' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-17.8</text>
+<rect x='648.5' y='110.0' width='34.0' height='124.9' rx='3' fill='#eb6834'/>
+<text x='665.5' y='249.9' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-12.0</text>
+<text x='400.0' y='418.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Exit</text>
+<text transform='translate(18 240.0) rotate(-90)' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle'>% per $1 staked</text>
+<rect x='70.0' y='73' width='10' height='10' rx='2' fill='#2a78d6'/>
+<text x='85.0' y='82.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>May to mid-August 2026</text>
+<rect x='269.0' y='73' width='10' height='10' rx='2' fill='#eb6834'/>
+<text x='284.0' y='82.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Mid-August to October 2026</text>
+</svg>
